@@ -1,2 +1,1 @@
-# This is my GitHub page 
-By Yan
+# This is my first page
